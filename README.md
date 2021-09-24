@@ -1,0 +1,2 @@
+# rabbitqm
+Rabbitqm - Docker-compose
